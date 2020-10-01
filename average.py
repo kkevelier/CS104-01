@@ -16,7 +16,7 @@ while scoreCount < numberOfTests:
     #total is at 0 but a sum accumulates as the user adds more values
     total += score
     
-    #When the number of scores = the initial number inputed the loop stops
+    #When the number of scores = the initial number input the loop stops
     if scoreCount == numberOfTests:
         break
 
